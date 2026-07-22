@@ -14,7 +14,7 @@ The application enables customers to submit feedback through a public form while
 
 # Source Code
 
-**GitHub Repository:** https://github.com/your-username/feedbackhub
+**GitHub Repository:** https://github.com/jagtap9100/FeedbackHub
 
 ---
 
@@ -61,16 +61,7 @@ The application enables customers to submit feedback through a public form while
 
 ---
 
-# Project Structure
 
-```text
-app/
-components/
-lib/
-prisma/
-types/
-public/
-```
 
 ---
 
@@ -157,7 +148,7 @@ Given additional time, I would add:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jagtap9100/FeedbackHub.git
 ```
 
 Install dependencies:
@@ -168,13 +159,7 @@ npm install
 
 Configure environment variables:
 
-```env
-DATABASE_URL=
 
-NEXT_PUBLIC_SUPABASE_URL=
-
-NEXT_PUBLIC_SUPABASE_ANON_KEY=
-```
 
 Run the development server:
 
