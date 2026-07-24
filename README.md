@@ -61,8 +61,6 @@ The application enables customers to submit feedback through a public form while
 
 ---
 
-
-
 ---
 
 # My Engineering Journey
@@ -158,8 +156,6 @@ npm install
 ```
 
 Configure environment variables:
-
-
 
 Run the development server:
 
