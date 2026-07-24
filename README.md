@@ -8,7 +8,8 @@ The application enables customers to submit feedback through a public form while
 
 # Live Demo
 
-**Application:** https://your-app-url.vercel.app
+**Application: User** https://feedback-hub-abhi7.vercel.app/
+**Application: Admin** https://feedback-hub-abhi7.vercel.app/admin
 
 ---
 
